@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 ## Table of contents
 
@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL:  [Git Hub Repo](https://your-solution-url.com)
-- Live Site URL: [Live url](https://your-live-site-url.com)
+- Solution URL:  [Git Hub Repo](https://github.com/Tolux001/QR-code-component-main)
+- Live Site URL: [Live url](https://main-qr-code-scan.netlify.app)
 
 ## My process
 
@@ -48,8 +48,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Git Clone 
 
+````git clone https
+https://github.com/Tolux001/QR-code-component-main.git
 ````
-
+````git clone cli
+gh repo clone Tolux001/QR-code-component-main
 ````
 
 ## Author
